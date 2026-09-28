@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.geekmarine/mcp-defi-router",
-  "description": "Autonomous Web3 router for DEX liquidity depth, EVM contract security, and cross-chain bridges.",
-  "version": "1.0.0",
+  "description": "Autonomous DeFi router for multi-hop execution, MEV risk mitigation, and transaction calldata.",
+  "version": "1.1.0",
   "repository": {
     "url": "https://github.com/geekmarine/mcp-defi-router",
     "source": "github"
